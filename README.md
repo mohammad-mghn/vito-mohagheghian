@@ -5,7 +5,7 @@
 
 
 
-<h2>Check my website 🔥</h2>
+<h2><a href="https://mohagheghian.netlify.app" target="_blank">Check my website 🔥</a></h2>
 
 
 <h3>Things I code with</h3>
