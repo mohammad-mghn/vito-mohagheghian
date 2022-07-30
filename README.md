@@ -46,10 +46,10 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/vito-mohagheghian/vito-mohagheghian-portfolio"><b>Vito Mohagheghian Portfolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/vito-mohagheghian/vito-mohagheghian-portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/vito-mohagheghian/vito-mohagheghian-portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/vito-mohagheghian/vito-mohagheghian-portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vito-mohagheghian/vito-mohagheghian-portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/vito-mohagheghian/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/vito-mohagheghian/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/vito-mohagheghian/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vito-mohagheghian/portfolio?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Instagram Clone</b></a></td>
