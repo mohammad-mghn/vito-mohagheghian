@@ -74,12 +74,6 @@
 <p><a href="https://github.com/vito-mohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-DD0031?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammad-mohagheghian-5a8160214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-FB542B?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 	
-<div>
-  [![Vito's GitHub Status](https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&include_all_commits=true&theme=dark&count_private=true&line_height=50)](https://github.com/vito-mohagheghian/vito-mohagheghian)
-  
-	[![vito-mohagheghian' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vito-mohagheghian&langs_count=5&theme=dark&exclude_repo=SocketCpp,vito-mohagheghian.github.io,DeveloperSite&line_height=40)](https://github.com/vito-mohagheghian/vito-mohagheghian)
-</div>	
-	
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 6 May, 5:00 GMT<br /></p>
 <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/vito-mohagheghian/vito-mohagheghian?style=flat-square&labelColor=343b41"/></p>
