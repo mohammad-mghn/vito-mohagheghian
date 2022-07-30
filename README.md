@@ -77,7 +77,7 @@
 <div>
   
   [![Vito's GitHub Status](https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&include_all_commits=true&theme=dark&count_private=true&line_height=40)](https://github.com/vito-mohagheghian/vito-mohagheghian)
-  [![dvlpr1992' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1992&langs_count=5&theme=algolia&exclude_repo=SocketCpp,vito-mohagheghian.github.io,DeveloperSite)](https://github.com/vito-mohagheghian/vito-mohagheghian)
+  [![vito-mohagheghian' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vito-mohagheghian&langs_count=5&theme=dark&exclude_repo=SocketCpp,vito-mohagheghian.github.io,DeveloperSite)](https://github.com/vito-mohagheghian/vito-mohagheghian)
 </div>	
 	
 ------------
