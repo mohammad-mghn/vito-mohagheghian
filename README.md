@@ -1,41 +1,27 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<div style="display:flex; align-items:center;" >Welcome to my page! </br> I'm Vito, Front-end developer from <img src="https://slackmojis.com/emojis/40372-iran/download" width="25"/> <b>Esfahan, Iran</b>. </div>
+
+<b> Welcome to my page! <br/>
+ I'm Vito, Front-end developer from  <img src="https://emojis.slackmojis.com/emojis/images/1643510497/41952/iran.gif?1643510497" width="20"/> Esfahan, Iran </b><br/><br/>
+<a href="https://github.com/vito-mohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-DD0031?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammad-mohagheghian-5a8160214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-FB542B?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e51097?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
 
-<h2><a href="https://vito.vercel.app" target="_blank">Check my website 🔥</a></h2>
+## Check my website [🔥](https://vito.vercel.app)
+
+### [vito.mohagheghian](https://vito.vercel.app)
+I make a blog weekly, if you like, take a look.
 
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Css3" src="https://img.shields.io/badge/-Css3-2088FF?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-blue?style=flat-square&logo=mui&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Netlify-1a73e8?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-5849BE?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-5849BE?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-311C87?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-311C87?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-fe015e?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-DD0031?style=flat-square&logo=Yarn&logoColor=white" />
-  <img alt="Framer-motion" src="https://img.shields.io/badge/-framer_motion-ff0000?style=flat-square&logo=framer&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-ff0000?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EC4A3F?style=flat-square&logo=gmail&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-F9A03C?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Js" src="https://img.shields.io/badge/-Js-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-43853d?style=flat-square&logo=Tailwindcss&logoColor=white" />
-  <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-00614e?style=flat-square&logo=spotify&logoColor=white" />
-</p>
-<h3>Open source projects</h3>
+
+## My Current Tech Stack
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48">    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48">
+
+
+
+## Open source projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -70,14 +56,21 @@
     </tr>
   </tbody>
 </table>
-<h3>I'm making content on Instagram! <img src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1651838122~hmac=c179691d392c5483916fdc759a456bd6" style="transform:translateY(25%);" width="20"/></h3>
 
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/vito-mohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-DD0031?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammad-mohagheghian-5a8160214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-FB542B?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-	
+
+## My Github Status
+
+![Ammaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=algolia)
+
+## Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
+
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 6 May, 5:00 GMT<br /></p>
-<p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/vito-mohagheghian/vito-mohagheghian?style=flat-square&labelColor=343b41"/></p>
+<div align="center">
+<a href="https://coffeebede.ir/buycoffee/vitovito">
+<img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/>
+</a>
+</div>
 
