@@ -32,7 +32,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Js" src="https://img.shields.io/badge/-Js-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-43853d?style=flat-square&logo=spotify&logoColor=white" />
+  <img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-43853d?style=flat-square&logo=Tailwindcss&logoColor=white" />
+  <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-00614e?style=flat-square&logo=spotify&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
