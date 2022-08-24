@@ -35,7 +35,7 @@ I make a blog weekly, if you like, take a look.
 
 ## My Github Status
 
-![Ammaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=radical&hide_border=true)      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Ammaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=radical&hide_border=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
