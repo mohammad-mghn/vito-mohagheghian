@@ -42,7 +42,7 @@ I make a blog weekly, if you like, take a look.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
-
+![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
 
 -----
 <div align="center">
