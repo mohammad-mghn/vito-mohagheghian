@@ -4,14 +4,14 @@
 
 
 <b> Welcome to my page! <br/>
- I'm Vito, Front-end developer from  <img src="https://emojis.slackmojis.com/emojis/images/1643510497/41952/iran.gif?1643510497" width="20"/> Esfahan, Iran </b><br/><br/>
+ I'm Vito, Front-end developer from Esfahan, Iran </b><br/><br/>
 <a href="https://github.com/vito-mohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-DD0031?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammad-mohagheghian-5a8160214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-FB542B?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e51097?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
 ## Check my website
 
-### [vito.mohagheghian](https://vito.vercel.app) [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)
-I make a blog weekly, if you like, take a look.
+### [vito.mohagheghian](https://vito.vercel.app)&nbsp; [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you+like%2C+take+a+look.)](https://git.io/typing-svg)
 
 
 
