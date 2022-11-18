@@ -32,10 +32,10 @@ I'm Vito, Front-end developer from Esfahan, Iran.</b><br/><br/>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=radical&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=radical&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=radical&hide_border=true" />
+      <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=radical&hide_border=true" />
     </a>
   </div>
   <br>
