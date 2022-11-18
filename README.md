@@ -29,13 +29,13 @@ I'm Vito, Front-end developer from Esfahan, Iran.</b><br/><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhdi-nzari&repo=devEvent&theme=radical&hide_border=true)](https://github.com/mhdi-nzari/devEvent)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=Owlearn&theme=radical&hide_border=true&)](https://github.com/vito-mohagheghian/Owlearn)&nbsp;
 
 
-<p align=center>
-  <div align=center>
+<p>
+  <div>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=radical&hide_border=true" alt="zumrudu-anka" />
+      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=radical&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=radical&hide_border=true" />
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=radical&hide_border=true" />
     </a>
   </div>
   <br>
