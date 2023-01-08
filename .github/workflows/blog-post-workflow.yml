@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "4"
           remove_duplicates: true
-          feed_list: "https://dev.to/feed/vitomohagheghian,https://www.vitomohagheghian.com/feed/"
+          feed_list: "https://dev.to/feed/vitomohagheghian"
