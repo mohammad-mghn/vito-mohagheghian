@@ -23,8 +23,8 @@ I'm Vito, Front-end developer from Esfahan, Iran.</b><br/><br/>
 
 
 ## Latest Blog posts
-<!-- DEVDOJO:START -->
-<!-- DEVDOJO:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ## Open source projects
