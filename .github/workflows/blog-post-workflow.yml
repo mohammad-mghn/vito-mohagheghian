@@ -12,4 +12,3 @@ jobs:
       - uses: vitomohagheghian/blog-post-workflow@main
         with:
           feed_list: "https://dev.to/feed/vitomohagheghian"
-          comment_tag_name: "DEVDOJO"
