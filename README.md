@@ -9,11 +9,9 @@
 
 ## Check my website
 
-### [vito.mohagheghian](https://vito.vercel.app)&nbsp; [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you+like%2C+take+a+look.)](https://git.io/typing-svg)
+### [vito.ir](https://vito.vercel.app)&nbsp; [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)
 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+daily%2C+if+you're+interseted%2C+take+a+look.)](https://git.io/typing-svg)
 
 ## My Current Tech Stack
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
@@ -21,6 +19,7 @@
 
 
 ## Latest Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [How to count lines of code you written in VSCode?](https://dev.to/vitomohagheghian/how-to-count-lines-of-code-you-written-in-vscode-5jm)
 - [Real-world Chrome extensions for web developers](https://dev.to/vitomohagheghian/chrome-extensions-for-web-developers-541n)
