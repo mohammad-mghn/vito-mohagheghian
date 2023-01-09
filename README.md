@@ -21,6 +21,7 @@
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
 - [How to count the lines of code you wrote in VS Code?](https://dev.to/vitomohagheghian/how-to-count-lines-of-code-you-written-in-vscode-5jm)
 - [Real-world Chrome extensions for web developers](https://dev.to/vitomohagheghian/chrome-extensions-for-web-developers-541n)
 - [Create a Windows 11 in React.js](https://dev.to/vitomohagheghian/create-a-windows-11-in-reactjs-4327)
