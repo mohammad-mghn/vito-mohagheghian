@@ -1,10 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
+<img src="moreDetails.ts.svg" alt="moreDetails.ts">
 
-
-<b> Welcome to my page! <br/> 
-I'm Vito, Front-end developer from Esfahan, Iran.</b><br/><br/>
 <a href="https://www.linkedin.com/in/mohammad-mohagheghian-5a8160214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/vitomohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://codesandbox.io/u/vito-mohagheghian" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/CodeSandBox-00C2CB.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
  <a href="https://stackoverflow.com/users/16104004/vito-mohagheghian" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.npmjs.com/~vito.mohagheghian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-cc0505?&style=for-the-badge&logo=NPM&logoColor=white" /></a>
 
