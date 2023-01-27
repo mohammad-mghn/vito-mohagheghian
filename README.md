@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<img src="moreDetails.ts.svg" alt="moreDetails.ts">
+<a href="https://vito.vercel.app"><img src="moreDetails.ts.svg" alt="moreDetails.ts"></a>
 
 <a href="https://www.linkedin.com/in/mohammad-mohagheghian-5a8160214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/vitomohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://codesandbox.io/u/vito-mohagheghian" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/CodeSandBox-00C2CB.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
  <a href="https://stackoverflow.com/users/16104004/vito-mohagheghian" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.npmjs.com/~vito.mohagheghian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-cc0505?&style=for-the-badge&logo=NPM&logoColor=white" /></a>
@@ -9,9 +9,7 @@
 
 ## Check my website
 
-### [vito.ir](https://vito.vercel.app)&nbsp; [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+daily%2C+if+you're+interseted%2C+take+a+look.)](https://git.io/typing-svg)
+### [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)&nbsp; [vito.ir](https://vito.vercel.app)&nbsp; [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)
 
 ## My Current Tech Stack
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
@@ -19,6 +17,8 @@
 
 
 ## Latest Blog posts
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you're+interseted%2C+take+a+look.)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
 - [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
