@@ -21,10 +21,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you're+interseted%2C+take+a+look.)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Auto Dev.to&#39;s posts updater on GitHub readme](https://dev.to/vitomohagheghian/auto-blogs-posts-updater-on-github-readme-3d0h)
 - [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
 - [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
 - [How to count the lines of code you wrote in VS Code?](https://dev.to/vitomohagheghian/how-to-count-lines-of-code-you-written-in-vscode-5jm)
-- [Real-world Chrome extensions for web developers](https://dev.to/vitomohagheghian/chrome-extensions-for-web-developers-541n)
 <!-- BLOG-POST-LIST:END -->
 
 
