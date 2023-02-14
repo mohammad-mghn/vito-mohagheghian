@@ -28,7 +28,7 @@
 - [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
 <!-- BLOG-POST-LIST:END -->
 
-#### Best Blogs
+### Best Blogs
 
 - [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
 - [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
