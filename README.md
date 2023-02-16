@@ -10,7 +10,9 @@
 
 ## Autobiography
 
-&nbsp;&nbsp;&nbsp;&nbsp;My name is Mohammad Mohagehghian, however, they usually call me 🤙 as Vito and I am a Junior Web Developer 🧑‍💻, tending to find the development team. I am an accomplished coder and programmer, and I enjoy using my skills to contribute to exciting technological ⚙️ advances and convert ideas💡 to reality 📖. I’m 17 years old 👦, so I’m studying in high school 🏫. While in school, I learned web development as well as JavaScript. Currently, I’m living in Esfahan, Iran as I was born there. Although I have a short experience, I tried to make this experience as applicable 🔧 as it could be. My story: In 2020, one of my friends 👦 made a call and started to talk 🦜about programming, and Python, I was interested 💖 in programming all time so I just searched 🔍 about Python, and after a while, I learned the Flax as a back-end framework to be an introduction to Django, however, I was more passionate in styling 🖌️ and interface, so I became a Front-end developer, after learning HTML, CSS, and Js, React, and Next.js.
+<b>
+&nbsp;&nbsp;&nbsp;&nbsp; My name is Mohammad Mohagehghian 👋, however, they usually call me 🤙 as Vito and I am a Junior Web Developer 🧑‍💻, tending to find the development team ☕. I am an accomplished coder and programmer, and I enjoy using my skills to contribute to exciting technological ⚙️ advances and convert ideas💡 to reality 📖. I’m 17 years old 👦, so I’m studying...
+</b> 
  
 ### [More On My Portflio](https://vito.vercel.app) &nbsp;[<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)
 
