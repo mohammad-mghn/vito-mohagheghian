@@ -52,10 +52,10 @@
 <div align="center">
   <div>
     <a href="https://github.com/vito-mohagheghian" title="Go to Source">
-      <img width=425 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=algolia&hide_border=true" alt="zumrudu-anka" />
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=algolia&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/vito-mohagheghian" title="Go to Source">
-      <img width=425 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=algolia&hide_border=true" />
+      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=algolia&hide_border=true" />
     </a>
   </div>
   <br>
