@@ -43,23 +43,23 @@
 
 ## Open Source Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=portfolio&theme=algolia&hide_border=true)](https://github.com/vito-mohagheghian/portfolio)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=algolia&hide_border=true&name=vito)](https://github.com/vito-mohagheghian/wins-11)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mhdi-nzari&repo=devEvent&theme=algolia&hide_border=true)](https://github.com/mhdi-nzari/devEvent)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=Owlearn&theme=algolia&hide_border=true&)](https://github.com/vito-mohagheghian/Owlearn)&nbsp;
+<div align="center">
+ <a href="https://github.com/vito-mohagheghian/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=portfolio&theme=algolia&hide_border=true"></a>&nbsp; <a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=algolia&hide_border=true&name=vito"></a>&nbsp; <a href="https://github.com/mhdi-nzari/devEvent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhdi-nzari&repo=devEvent&theme=algolia&hide_border=true"></a>&nbsp; <a href="https://github.com/vito-mohagheghian/Owlearn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=Owlearn&theme=algolia&hide_border=true&"></a>&nbsp;
+</div>
 
 ## Github Status
 
-<p>
+<div align="center">
   <div>
     <a href="https://github.com/vito-mohagheghian" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=algolia&hide_border=true" alt="zumrudu-anka" />
+      <img width=425 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=algolia&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/vito-mohagheghian" title="Go to Source">
-      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=algolia&hide_border=true" />
+      <img width=425 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=algolia&hide_border=true" />
     </a>
   </div>
   <br>
-</p>
-
+</div>
 
 ## Support Me
  
