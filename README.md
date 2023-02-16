@@ -27,7 +27,7 @@
 
 ## Latest Blog posts
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you're+interseted%2C+take+a+look.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=I+make+a+blog+weekly%2C+if+you're+interseted%2C+take+a+look.)](https://dev.to/vitomohagheghian/)
 
 <!-- BLOG-POST-LIST:START -->
 - [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
