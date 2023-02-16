@@ -55,6 +55,13 @@
 ---------
 
 <div align="center">
+  <p><b>Profile Views 👀</b></p>
+  <img src="https://profile-counter.glitch.me/vito-mohagheghian/count.svg" />
+</div>
+
+---------
+
+<div align="center">
 <a href="https://coffeebede.ir/buycoffee/vitovito">
 <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/>
 </a>
