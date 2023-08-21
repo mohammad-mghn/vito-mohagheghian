@@ -20,7 +20,7 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 <h3 align="center"> <a href="https://vito-dev.ir"><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/></a>&nbsp; <a href="https://vito-dev.ir">More On My Portflio</a>&nbsp; <a href="https://vito-dev.ir"><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/></a> </h3>
 
 
-<h2 align="center">My Current Tech Stack</h2>
+<h2 align="center">My Current Tech Stack + Tools</h2>
 
 <div align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
