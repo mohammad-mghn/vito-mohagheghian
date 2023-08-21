@@ -45,10 +45,10 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 
 
 <!-- BLOG-POST-LIST:START -->
-| [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
-| [Auto Dev.to&#39;s posts updater on GitHub readme](https://dev.to/vitomohagheghian/auto-blogs-posts-updater-on-github-readme-3d0h)
-| [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
-| [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
+- [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
+- [Auto Dev.to&#39;s posts updater on GitHub readme](https://dev.to/vitomohagheghian/auto-blogs-posts-updater-on-github-readme-3d0h)
+- [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
+- [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
