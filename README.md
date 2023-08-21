@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<a href="https://vito-dev.ir"><img src="moreDetails.ts.svg" alt="moreDetails.ts"></a>
+<a href="https://vito-dev.ir"><img src="moreDetails.ts.svg" alt="click to redirect to portfolio"></a>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/vito-mohagheghian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/vitomohagheghian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://twitter.com/hereisvito" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://codesandbox.io/u/vito-mohagheghian" target="_blank"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSandBox-00C2CB.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
@@ -45,12 +45,11 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 
 
 <!-- BLOG-POST-LIST:START -->
-- [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
-- [Auto Dev.to&#39;s posts updater on GitHub readme](https://dev.to/vitomohagheghian/auto-blogs-posts-updater-on-github-readme-3d0h)
-- [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
-- [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
+| [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
+| [Auto Dev.to&#39;s posts updater on GitHub readme](https://dev.to/vitomohagheghian/auto-blogs-posts-updater-on-github-readme-3d0h)
+| [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
+| [The Easiest way to create React NPM packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
 <!-- BLOG-POST-LIST:END -->
-
 
 </div>
 
