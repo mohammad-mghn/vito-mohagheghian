@@ -54,11 +54,6 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 
 </div>
 
-<h2 align="center">Best Blogs</h2>
-
-- [tailwindCSS&#39;s classes order pattern &quot;best practice&quot; 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
-- [The Best Way to import images in ReactJs, and NextJs 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
-
 <h2 align="center">Open Source Projects</h2>
 
 <div align="center" justify="center">
