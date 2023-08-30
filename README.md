@@ -8,7 +8,7 @@
  <a href="https://stackoverflow.com/users/16104004/vito-mohagheghian" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="https://www.instagram.com/vito.mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.npmjs.com/~vito.mohagheghian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-cc0505?&style=for-the-badge&logo=NPM&logoColor=white" /></a>
 </div>
 
-<h2 align="center">Autobiography</h2>
+<h2 align="center">Autobiography 📖</h2>
 
 <b>
  <p align="center">
@@ -19,8 +19,9 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 
 <h3 align="center"> <a href="https://vito-dev.ir"><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/></a>&nbsp; <a href="https://vito-dev.ir">More On My Portflio</a>&nbsp; <a href="https://vito-dev.ir"><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/></a> </h3>
 
+<h2 align="center">My Current Tech Stack 🚀</h2>
 
-<h3 align="center">My Current Tech Stack + Tools</h3>
+<h3 align="center">Skills + Tools</h3>
 
 <div align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
@@ -37,7 +38,7 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">   
 </div>
 
-<h2 align="center">Latest Blog posts</h2>
+<h2 align="center">Latest Blog posts 💬</h2>
 
 <div align="center">
  
@@ -53,13 +54,13 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 
 </div>
 
-<h2 align="center">Open Source Projects</h2>
+<h2 align="center">Open Source Projects 🐙</h2>
 
 <div align="center" justify="center">
 <a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=algolia&hide_border=true&name=vito&"></a>&nbsp; <a href="https://github.com/vito-mohagheghian/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=portfolio&theme=algolia&hide_border=true"></a>&nbsp;  <a href="https://github.com/vito-mohagheghian/devs-event"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=devs-event&theme=algolia&hide_border=true"></a>&nbsp; <a href="https://github.com/vito-mohagheghian/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=dev-tab&theme=algolia&hide_border=true&"></a>&nbsp;
 </div>
 
-<h2 align="center">Github Status</h2>
+<h2 align="center">Github Status 👻</h2>
 
 <div align="center">
   <div>
@@ -73,11 +74,18 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
   <br>
 </div>
 
-<h2 align="center">Support Me</h2>
+<h2 align="center">Support Me 🫠</h2>
  
-<div align="center">
+<div align="center" style="display:flex;">
+<h3 align="center">Buy me a Coffee ☕</h3>
+ 
 <a href="https://www.coffeebede.com/vitomohagheghian">
-<img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/>
+    <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/>
 </a>
+</div>
+
+<h3 align="center">Send me tether 🪙</h3>
+
+    https://link.trustwallet.com/send?coin=60&address=0x0198DA29fcCECb17713c8deB467E745358b3773d&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7
 </div>
 
