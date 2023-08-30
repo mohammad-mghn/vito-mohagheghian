@@ -57,7 +57,7 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 <h2 align="center">Open Source Projects 🐙</h2>
 
 <div align="center" justify="center">
-<a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=algolia&hide_border=true&name=vito&"></a>&nbsp; <a href="https://github.com/vito-mohagheghian/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=portfolio&theme=algolia&hide_border=true"></a>&nbsp;  <a href="https://github.com/vito-mohagheghian/devs-event"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=devs-event&theme=algolia&hide_border=true"></a>&nbsp; <a href="https://github.com/vito-mohagheghian/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=dev-tab&theme=algolia&hide_border=true&"></a>&nbsp;
+<a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=algolia&hide_border=true&name=vito&"></a> <a href="https://github.com/vito-mohagheghian/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=dev-tab&theme=algolia&hide_border=true&"></a>&nbsp;
 </div>
 
 <h2 align="center">Github Status 👻</h2>
