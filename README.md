@@ -57,7 +57,7 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 <h2 align="center">Open Source Projects 🐙</h2>
 
 <div align="center" justify="center">
-<a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=algolia&hide_border=true&name=vito&"></a> <a href="https://github.com/vito-mohagheghian/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=dev-tab&theme=algolia&hide_border=true&"></a>&nbsp;
+<a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=transparent&hide_border=true&name=vito&"></a> <a href="https://github.com/vito-mohagheghian/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=dev-tab&theme=transparent&hide_border=true&"></a>&nbsp;
 </div>
 
 <h2 align="center">Github Status 👻</h2>
@@ -65,10 +65,10 @@ I'm Vito (Mohammad Mohagheghian) 👋, a junior web developer 🧑‍💻 from I
 <div align="center">
   <div>
     <a href="https://github.com/vito-mohagheghian" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=algolia&hide_border=true" alt="zumrudu-anka" />
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=transparent&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/vito-mohagheghian" title="Go to Source">
-      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=algolia&hide_border=true" />
+      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=transparent&hide_border=true" />
     </a>
   </div>
   <br>
